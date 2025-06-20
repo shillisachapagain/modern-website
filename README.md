@@ -30,4 +30,5 @@ A simple and sleek landing page built with React, Tailwind CSS, and deployed usi
 # Project Structure
 src/ ├── components/ │ ├── Navbar.jsx │ ├── Hero.jsx │ ├── PurposeSection.jsx │ ├── MonitorSection.jsx │ ├── ServicesSection.jsx │ ├── TestimonialsSection.jsx │ ├── NewsletterSection.jsx │ └── Footer.jsx
 
+# NOTE
 ** THIS PROJECT WAS CREATED WITH THE HELP OF https://www.youtube.com/watch?v=O1n5EEByYfg&ab_channel=MdAlMamun I JUST MADE IT MY OWN IN SOME WAYS **
