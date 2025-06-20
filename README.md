@@ -15,19 +15,19 @@ A simple and sleek landing page built with React, Tailwind CSS, and deployed usi
 ⚫ Tailwind CSS
 ⚫ React Icons
 
-# Getting Started ~
+# Getting Started 
 
-# Prerequisites
+## Prerequisites
 
 ✅ Node.js (v14 or higher)
 ✅ npm or yarn
 
-# Installation
+## Installation
 1. Clone the repository
 2. Install dependencies
 3. Start the development server
    
-Project Structure
+# Project Structure
 src/ ├── components/ │ ├── Navbar.jsx │ ├── Hero.jsx │ ├── PurposeSection.jsx │ ├── MonitorSection.jsx │ ├── ServicesSection.jsx │ ├── TestimonialsSection.jsx │ ├── NewsletterSection.jsx │ └── Footer.jsx
 
 ** THIS PROJECT WAS CREATED WITH THE HELP OF https://www.youtube.com/watch?v=O1n5EEByYfg&ab_channel=MdAlMamun I JUST MADE IT MY OWN IN SOME WAYS **
